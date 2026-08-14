@@ -45,11 +45,9 @@ because it stores all the companies data and systems
 
 ### Which devices should normal employees be allowed to access? ###
 All normal employees should be able to access 
-- The printer
-
-so that employees can print work related documentation and important reports
+- The printer,So that employees can print work related documentation and important reports
   
-- The employee PC
+- The employee PC, So that employees can work on work related projects and communicate with teams access essential software, and remain productive
   
 
 ### Which device should have the strongest access controls? ###
