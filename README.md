@@ -21,3 +21,12 @@ Apex Digital
 | Employee PC | `192.168.10.51` | Normal employee |
 | Printer | `192.168.10.60` | Network printer |
 
+
+| Device | IP Address | Role | Security Level |
+|---|---|---|---|
+| Router | `192.168.10.1` | Gateway | High |
+| File Server | `192.168.10.10` | File storage | Critical |
+| Web Server | `192.168.10.20` | Website | High |
+| Admin PC | `192.168.10.50` | IT administrator | High |
+| Employee PC | `192.168.10.51` | Normal employee | Medium |
+| Printer | `192.168.10.60` | Network printer | Low |
