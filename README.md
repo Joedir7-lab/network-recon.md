@@ -3,4 +3,13 @@ Hands-on cybersecurity project documenting the design and security assessment of
 
 ## Mission: Act like a junior security analyst investigating a small company's network ##
 
-## Company ## ( : )
+## Company ##
+Apex Digital
+
+## Employees ##
+15
+
+## Network ##
+192.168.10.0/24
+
+
