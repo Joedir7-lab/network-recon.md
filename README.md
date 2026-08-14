@@ -47,7 +47,7 @@ because it stores all the companies data and systems
 All normal employees should be able to access 
 - The printer
 
-  so that employees can print work related documentation and important reports
+so that employees can print work related documentation and important reports
   
 - The employee PC
   
