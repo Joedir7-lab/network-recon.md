@@ -35,3 +35,8 @@ Apex Digital
 | Admin PC | `192.168.10.50` | IT administrator | High |
 | Employee PC | `192.168.10.51` | Normal employee | Medium |
 | Printer | `192.168.10.60` | Network printer | Low |
+
+
+## Network Security Assessment ##
+
+### What is the most valuable device on this network? Why? ###
