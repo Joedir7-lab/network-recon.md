@@ -40,3 +40,19 @@ Apex Digital
 ## Network Security Assessment ##
 
 ### What is the most valuable device on this network? Why? ###
+The file server 
+because it stores all the companies data and systems 
+
+### Which devices should normal employees be allowed to access? ###
+All normal employees should be able to access 
+- The printer
+and 
+- The employee PC
+  
+
+### Which device should have the strongest access controls? ###
+-   Router
+-   File server
+-   Admin PC
+
+  
