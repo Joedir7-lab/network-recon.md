@@ -80,16 +80,22 @@ If an attacker had gained acces to an employees PC the attacker could be able to
   -  Explicit Implicit Deny (Default-Deny Rule)
 
 
-## Network Segmaentation ##
-Internet
-   ↓
-Router / Firewall
-   ↓
-Switch
-   ├── Admin PC
-   ├── Employee PCs
-   ├── File Server
-   ├── Web Server
-   └── Printer
+## Network Segmentation ##
 
+                    Internet
+                       │
+                Router / Firewall
+                       │
+                    Switch
+        ┌──────────────┼──────────────┐
+        │              │              │
+   Admin Network   Employee       Server Network
+        │           Network             │
+        │              │          ┌─────┴─────┐
+    Admin PC      Employee PCs   File      Web
+                               Server     Server
+        │
+   Printer Network
+        │
+     Printer
   
