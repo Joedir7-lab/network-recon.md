@@ -12,7 +12,9 @@ Apex Digital
 ## Network ##
 192.168.10.0/24
 
+
 ## Devices informarion ##
+
 | Device | IP Address | Role |
 |---|---|---|
 | Router | `192.168.10.1` | Gateway |
@@ -21,6 +23,7 @@ Apex Digital
 | Admin PC | `192.168.10.50` | IT administrator |
 | Employee PC | `192.168.10.51` | Normal employee |
 | Printer | `192.168.10.60` | Network printer |
+
 
 ## Security levels on devices ##
 
